@@ -1,0 +1,15 @@
+#stage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#gameCanvas {
+  border: 2px solid black;
+}
+
+#score {
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Antic Slab', serif;
+}
